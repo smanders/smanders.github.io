@@ -11,7 +11,7 @@ Principal Software Engineer with a track record of architecting scalable, cross-
 ## Experience
 
 ### **Principal Software Engineer** • **Priority 6** • Current
-- Architected a reusable CMake build platform with CI pipelines, leveraging Git, GitHub, and Docker (https://github.com/externpro/externpro)
+- Architected a reusable CMake build platform with CI pipelines, leveraging Git, GitHub, and Docker ([externpro/externpro](https://github.com/externpro/externpro))
 - Developed extensive GitHub Actions for automated build, testing, and security compliance
 - Created world-class CMake build platform supporting multiple processor architectures, OSes, and compiler releases
 - Implemented software supply chain security with SBOMs and attestation for production deployment
