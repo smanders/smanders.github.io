@@ -1,0 +1,93 @@
+/* Soft dark mode for GitHub Pages markdown rendering */
+body {
+    background-color: #1a1f2a !important;
+    color: #b8c5d6 !important;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #7aa2f7 !important;
+}
+
+/* Links */
+a {
+    color: #7aa2f7 !important;
+}
+
+a:hover {
+    color: #9bb5ff !important;
+}
+
+/* Code blocks */
+pre, code {
+    background-color: #24283b !important;
+    color: #b8c5d6 !important;
+    border: 1px solid #414868 !important;
+}
+
+/* Blockquotes */
+blockquote {
+    border-left: 4px solid #414868 !important;
+    background-color: #24283b !important;
+    color: #9ca0b0 !important;
+}
+
+/* Tables */
+th, td {
+    border: 1px solid #414868 !important;
+}
+
+th {
+    background-color: #24283b !important;
+}
+
+/* Horizontal rules */
+hr {
+    border-color: #414868 !important;
+}
+
+/* Lists */
+ul, ol {
+    color: #b8c5d6 !important;
+}
+
+/* Emphasis */
+em, i {
+    color: #9ca0b0 !important;
+}
+
+/* Strong text */
+strong, b {
+    color: #d0d9e8 !important;
+}
+
+/* GitHub Pages specific adjustments */
+.markdown-body {
+    background-color: #1a1f2a !important;
+    color: #b8c5d6 !important;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+    color: #7aa2f7 !important;
+}
+
+.markdown-body a {
+    color: #7aa2f7 !important;
+}
+
+.markdown-body pre,
+.markdown-body code {
+    background-color: #24283b !important;
+    color: #b8c5d6 !important;
+}
+
+.markdown-body blockquote {
+    border-left: 4px solid #414868 !important;
+    background-color: #24283b !important;
+    color: #9ca0b0 !important;
+}

@@ -1,5 +1,7 @@
 # Scott M Anderson
 
+<link rel="stylesheet" href="style.css">
+
 **Contact:** smanders@outlook.com • 435/512-4070 • [LinkedIn](https://www.linkedin.com/in/andersonscottm/)
 
 ## Summary

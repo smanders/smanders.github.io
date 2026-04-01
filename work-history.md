@@ -1,5 +1,7 @@
 # Work History
 
+<link rel="stylesheet" href="style.css">
+
 ## Sorenson Media (1997-2002)
 
 ### Extensible video codec framework

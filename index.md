@@ -1,5 +1,7 @@
 # Scott M Anderson
 
+<link rel="stylesheet" href="style.css">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/andersonscottm/)
 
 ## Professional Documents
