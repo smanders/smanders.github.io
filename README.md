@@ -1,1 +1,0 @@
-# smanders.github.io

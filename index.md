@@ -5,8 +5,8 @@
 ## Professional Documents
 
 ### Technical Leadership
-- 📄 [Resume](smanders-resume.md) - Principal Software Engineer
-- 📚 [Work History](smanders-work-history.md) - Detailed career journey
+- 📄 [Resume](resume.md) - Principal Software Engineer
+- 📚 [Work History](work-history.md) - Detailed career journey
 
 ---
 
