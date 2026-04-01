@@ -8,7 +8,8 @@
 
 ### Technical Leadership
 - 📄 [Resume](resume.md) - Principal Software Engineer
-- 📚 [Work History](work-history.md) - Detailed career journey
+- � [Resume PDF](smanders-resume.pdf) - Downloadable version
+- �📚 [Work History](work-history.md) - Detailed career journey
 
 ---
 
