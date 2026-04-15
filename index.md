@@ -20,6 +20,8 @@ Experienced Principal Software Engineer with expertise in CMake, CI/CD, containe
 - **Email:** smanders@outlook.com
 - **Phone:** 435/512-4070
 - **LinkedIn:** [linkedin.com/in/andersonscottm](https://www.linkedin.com/in/andersonscottm/)
+- **GitHub:** [github.com/smanders](https://github.com/smanders)
+- **Externpro:** [github.com/externpro](https://github.com/externpro)
 
 ---
 
